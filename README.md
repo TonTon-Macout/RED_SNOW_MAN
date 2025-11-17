@@ -1,5 +1,5 @@
 ## Remote Settings Managment
-----------------------
+
 
 ### Приложения для Windows и Android  для поиска в локальной сети и отображения вебморд устройств
 + с установленной библиотекой [Settings AlexGyver](https://github.com/GyverLibs/Settings) 

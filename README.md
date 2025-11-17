@@ -1,5 +1,4 @@
-# RED_SNOW_MAN
-Remote Settings Managment
+##Remote Settings Managment
 ----------------------
 
 ### Приложения для Windows и Android  для поиска в локальной сети и отображения вебморд устройств
